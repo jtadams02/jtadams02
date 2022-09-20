@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jtadams02
-- 👀 I’m interested in all things technology. Currently I am trying to focus on cybersecurity
-- 🌱 I’m currently learning all the basics on HackTheBox Academy
+- 👀 I'm a current undergraduate at the University of Alabama majoring in Computer Science
+- 😎 I'm focusing on Cybersecurity, and I am a member of the Alabama Cybersecurity club
+- 🌱 My profile will house practically everything that I do!
 
 <!---
 jtadams02/jtadams02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
