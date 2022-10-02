@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jtadams02
 - 👀 I'm a current undergraduate at the University of Alabama majoring in Computer Science
-- 😎 I'm focusing on Cybersecurity, and I am a member of the Alabama Cybersecurity club
+- 😎 I'm focusing on Cybersecurity, and I am an executive member of Crimson Defense
 - 🌱 My profile will house practically everything that I do!
 
 <!---
